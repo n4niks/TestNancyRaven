@@ -1,0 +1,17 @@
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\kemwell.Nancy.REST.exe.config
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\obj\Debug\ResolveAssemblyReference.cache
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\kemwell.Nancy.REST.exe
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\kemwell.Nancy.REST.pdb
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\Nancy.dll
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\Nancy.Hosting.Aspnet.dll
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\Nancy.Hosting.Owin.dll
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\Nancy.Hosting.Self.dll
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\Nancy.Hosting.Wcf.dll
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\Newtonsoft.Json.dll
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\Raven.Abstractions.dll
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\Raven.Client.Debug.dll
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\Raven.Client.Lightweight.dll
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\NLog.dll
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\bin\Debug\AsyncCtpLibrary.dll
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\obj\Debug\kemwell.Nancy.REST.exe
+D:\SVN Repositories\Kemwell.Rest.Server\Kemwell.Nancy.Rest\obj\Debug\kemwell.Nancy.REST.pdb
